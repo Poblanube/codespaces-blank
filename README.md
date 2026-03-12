@@ -21,4 +21,16 @@ Para conocer el funcionamiento interno y consultar todas las funciones disponibl
 
 ```bash
 pip --help
+```
+### 🛠️ Comandos de Uso Frecuente
 
+A continuación, se detallan las directivas más comunes de PIP mencionadas en el archivo de prueba:
+
+| Comando | Descripción | Ejemplo de uso |
+| :--- | :--- | :--- |
+| **`install`** | Descarga e instala un paquete desde PyPI. | `pip install pandas` |
+| **`uninstall`** | Elimina un paquete del entorno actual. | `pip uninstall flask` |
+| **`list`** | Muestra todos los paquetes instalados y sus versiones. | `pip list` |
+| **`freeze`** | Genera un listado de dependencias para replicar entornos. | `pip freeze > requirements.txt` |
+| **`show`** | Muestra información detallada (versión, autor, ubicación) de un paquete. | `pip show numpy` |
+| **`--help`** | Despliega el listado general de directivas y ayuda. | `pip --help` |
