@@ -34,3 +34,14 @@ A continuación, se detallan las directivas más comunes de PIP mencionadas en e
 | **`freeze`** | Genera un listado de dependencias para replicar entornos. | `pip freeze > requirements.txt` |
 | **`show`** | Muestra información detallada (versión, autor, ubicación) de un paquete. | `pip show numpy` |
 | **`--help`** | Despliega el listado general de directivas y ayuda. | `pip --help` |
+
+---
+
+## 📺 Contenido en Video
+
+Si quieres aprender más sobre AWS, Python y Cómputo en la Nube, te invito a 
+mi canal en YouTube: POBLANUBE
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Poblanube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@poblanube)
+
+---
